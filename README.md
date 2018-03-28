@@ -1,1 +1,1 @@
-# Creating-a-Linear-regression
+# Linear-Regression-Algorithm
